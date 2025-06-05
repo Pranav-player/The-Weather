@@ -7,14 +7,9 @@ A simple weather app using RapidAPI that shows 3-day forecast based on user inpu
 - Location-based search
 - Clean UI using HTML/CSS/JavaScript
 
-## Preview
-
-![Screenshot 1](images/screenshot1.png)
-![Screenshot 2](images/screenshot2.png)
-![Screenshot 3](images/screenshot3.png)
 
 ## Live Demo
-[Click here to try the app](https://Pranav-player.github.io/The-Weather/)
+[Click here to try the app](http://127.0.0.1:5500/index.html#)
 
 ## Tech Stack
 - HTML
