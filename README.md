@@ -12,9 +12,9 @@ A simple weather app using RapidAPI that shows 3-day forecast based on user inpu
 
 ## Live Demo
 [Click here to try the app](http://127.0.0.1:5500/index.html#)
-![Screenshot 1](sc1.png.png)
-![Screenshot 2](sc2.png.png)
-![Screenshot 3](sc3.png.png)
+![Screenshot 1](screenshots/sc1.png.png)
+![Screenshot 2](screenshots/sc2.png.png)
+![Screenshot 3](screenshots/sc3.png.png)
 
 ## Tech Stack
 - HTML
